@@ -7,11 +7,11 @@
 <br />
 
 ## 1조 버그헌터 발표자료
-> [피그마 사용하여 가계부 앱 만들기](https://www.figma.com/make/j6fs69YUVXRH6U6XaM9wdR/%EA%B0%80%EA%B3%84%EB%B6%80-%EC%96%B4%ED%94%8C-%EC%A0%9C%EC%9E%91-%EC%9A%94%EC%B2%AD?node-id=0-1&t=MCNnJ3208XgQLBv7-1).<br>
-> [반려동물 병원 비교시스템](https://www.figma.com/make/KYN5QvH2RlOLvuIOyyblnb/Pet-Care-Cost-Comparison-App?node-id=0-4&t=j9kUCAvM4snio7tr-1).<br>
+> [피그마 사용하여 가계부 앱 만들기](https://www.figma.com/make/j6fs69YUVXRH6U6XaM9wdR/%EA%B0%80%EA%B3%84%EB%B6%80-%EC%96%B4%ED%94%8C-%EC%A0%9C%EC%9E%91-%EC%9A%94%EC%B2%AD?node-id=0-1&t=MCNnJ3208XgQLBv7-1)<br>
+> [반려동물 병원 비교시스템](https://www.figma.com/make/KYN5QvH2RlOLvuIOyyblnb/Pet-Care-Cost-Comparison-App?node-id=0-4&t=j9kUCAvM4snio7tr-1)<br>
 
 # 수업 자료
-> 25.10.24 [git&github].(/Github.pptx).<br>
+> 25.10.24 [깃 관련 자료](/Github.pptx)<br>
 
 
 # 🎵 유튜브
