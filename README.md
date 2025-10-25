@@ -11,7 +11,7 @@
 > [반려동물 병원 비교시스템](https://www.figma.com/make/KYN5QvH2RlOLvuIOyyblnb/Pet-Care-Cost-Comparison-App?node-id=0-4&t=j9kUCAvM4snio7tr-1)<br>
 
 # 수업 자료
-> 25.10.24 [깃 관련 자료](/Github.pptx)<br>
+> 25.10.24 [Git & Github 관련 자료](/Github.pptx)<br>
 
 
 # 🎵 유튜브
